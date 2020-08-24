@@ -1,4 +1,4 @@
-/*********
+'''
 SMALL FACTORIALS
 You are asked to calculate factorials of some small positive integers.
 
@@ -21,7 +21,7 @@ Sample output:
 2
 120
 6
-************/
+'''
 t=int(input())
 j=0
 while(j!=t):
